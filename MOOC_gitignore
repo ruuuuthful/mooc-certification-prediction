@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data — not committed; re-download from Harvard Dataverse
+mooc_train.csv
+mooc_test.csv
+predictions.csv
+*.csv
+
+# OS / editor noise
+.DS_Store
+.vscode/
+.idea/
